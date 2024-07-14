@@ -159,11 +159,11 @@ div#menubar {
 }
 
 .resumeitem {
-    width: 48%;
+    width: 46%;
     float: left;
     /* background-color: rgb(168, 166, 166); */
     list-style-type: none;
-    margin: 4px;
+    margin: 1.5%;
     padding: 2px;
     text-align: left;
     /* border-radius: 10px; */
