@@ -172,6 +172,14 @@ div#menubar {
 .resumeitem h2{
     text-align: left;
 }
+p a,
+.resumeitem a,
+.resumeitem a:visited{
+    color: #06B4F1;
+}
+.resumeitem a:hover{
+    color: #020024;
+}
 #educationlist .resumeitem{
     width: 65%;
 }
