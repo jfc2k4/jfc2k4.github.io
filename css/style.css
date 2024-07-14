@@ -208,3 +208,6 @@ footer {
     border-radius: 10px;
     font-size: 18px;
 }
+.clear{
+    clear: both;
+}
