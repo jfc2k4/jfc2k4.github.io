@@ -211,3 +211,8 @@ footer {
 .clear{
     clear: both;
 }
+.section-heading h2 {
+    background-color: #06B4F1;
+    padding: 15px 0 15px 10px;
+    color: #fff;
+}
