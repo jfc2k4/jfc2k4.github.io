@@ -177,6 +177,16 @@ p a,
 .resumeitem a:visited{
     color: #06B4F1;
 }
+a.btn-hire {
+    background-color: #020024;
+    padding: 10px 28px;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 40px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
 .resumeitem a:hover{
     color: #020024;
 }
