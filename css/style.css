@@ -187,6 +187,11 @@ a.btn-hire {
     width: 100px;
     text-align: center;
 }
+a.btn-hire:hover {
+    color: #020024;
+    background-color: #fff;
+    border: 1px solid #020024;
+}
 .resumeitem a:hover{
     color: #020024;
 }
